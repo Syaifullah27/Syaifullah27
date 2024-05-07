@@ -1,32 +1,23 @@
-<div align="center">
-    <img src="https://github.com/Esyeha/Esyeha/blob/main/assets/banner.jpg">
-</div>
+<img src="/images/welcome to my profile.png" width="100%" alt="profile" border="0"/>
+<div>
+<img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
+<br/>
+<img src="./img/AboutMe-elaina.png" width="488" />
+<br/>
+<br/>
+<br/>
 
-<div align="center">
-    <h1>𝗛𝗶, 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲</h1>
-    <!-- <a href="https://discord.com/users/1177530814624452628">
-        <img src="https://lanyard.cnrad.dev/api/936621352738250843?bg=512f9c&borderRadius=15px"/>
-    </a> -->
-</div>
+- Name **Syaifullah / SYH**
 
-<div align="center">
-    <h2>𝑨𝒃𝒐𝒖𝒕 𝒎𝒆</h2>
-</div>
+- Live in **South Sumatra, Indonesia**
 
-<div align="center">
-    <img src="https://github.com/Esyeha/Esyeha/blob/main/assets/me.gif">
-</div>
+- Studying [**Junior Frontend Developer**](https://binar.com)
 
-<dl>
-    <dt align="center">Name:</dt>
-    <dd align="center">Syaifullah</dd>
-    <dt align="center">Gender:</dt>
-    <dd align="center">he/him</dd>
-    <dt align="center">Loves:</dt>
-    <dd align="center">Anime, Manga, Games</dd>
-    <dt align="center">Hobbies:</dt>
-    <dd align="center">Web Development, Game</dd>
-</dl>
+- Good with  **HTML**, **CSS**, **JavaScript** , **TypeScript** , **React**
+
+- Have high experience with **Figma**
+  
+- Understand Bahasa Indonesia, Bahasa Melayu, and English
 
 <div align="center">
     <h2>𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚</h2>
