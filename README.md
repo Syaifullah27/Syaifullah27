@@ -1,4 +1,4 @@
-<img src="/assets/welcome.png" width="100%" alt="profile" border="0"/>
+<img src="/assets/myprofile.png" width="100%" alt="profile" border="0"/>
 <div>
 <img width="337" src="/assets/me.png" align=right />
 <br/>
