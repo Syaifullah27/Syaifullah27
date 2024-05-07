@@ -2,7 +2,7 @@
 <div>
 <img width="337" src="/assets/me.png" align=right />
 <br/>
-<img src="/assets/Group 1.png" width="488" />
+<img src="/assets/about.png" width="488" />
 <br/>
 <br/>
 <br/>
