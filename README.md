@@ -1,8 +1,8 @@
 <img src="/assets/welcome.png" width="100%" alt="profile" border="0"/>
 <div>
-<img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
+<img width="337" src="/assets/me.png" align=right />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="488" />
+<img src="/assets/Group 1.png" width="488" />
 <br/>
 <br/>
 <br/>
