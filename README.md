@@ -1,8 +1,8 @@
 <img src="/assets/myprofile.png" width="100%" alt="profile" border="0"/>
 <div>
-<img width="360" src="assets/luffy.png" align=right />
+<img width="377" src="assets/luffy.png" align=right />
 <br/>
-<img src="/assets/about.png" width="470" />
+<img src="/assets/about.png" width="488" />
 <br/>
 <br/>
 <br/>
