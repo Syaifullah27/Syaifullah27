@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Esyeha/README.md/blob/main/assets/banner.jpg">
+    <img src="https://github.com/Esyeha/Esyeha/blob/main/assets/banner.jpg">
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/Esyeha/README.md/blob/main/assets/me.gif">
+    <img src="https://github.com/Esyeha/Esyeha/blob/main/assets/me.gif">
 </div>
 
 <dl>
@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/Esyeha/README.md/blob/main/assets/Knowledge.gif">
+    <img src="https://github.com/Esyeha/Esyeha/blob/main/assets/Knowledge.gif">
 </div>
 
 <dl>
@@ -103,7 +103,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/Esyeha/README.md/blob/main/assets/s.gif">
+    <img src="https://github.com/Esyeha/Esyeha/blob/main/assets/s.gif">
 </div>
 
 <dl>
