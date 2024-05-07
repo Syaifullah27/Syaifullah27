@@ -2,7 +2,7 @@
 <div>
 <img width="377" src="assets/luffy.png" align=right />
 <br/>
-<img src="/assets/AboutMe-elaina.png" width="450" />
+<img src="/assets/AboutMe-elaina.png" width="420" />
 <br/>
 <br/>
 <br/>
