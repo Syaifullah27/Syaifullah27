@@ -1,6 +1,6 @@
 <img src="/assets/myprofile.png" width="100%" alt="profile" border="0"/>
 <div>
-<img width="337" src="/assets/me.png" align=right />
+<img width="337" src="/assets/luffy-2.jpeg" align=right />
 <br/>
 <img src="/assets/about.png" width="488" />
 <br/>
