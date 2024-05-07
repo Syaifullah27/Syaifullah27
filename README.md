@@ -36,6 +36,15 @@
     <img src="https://github.com/Esyeha/README.md/blob/main/assets/Knowledge.gif">
 </div>
 
+<dl>
+    <dt align="center">FrontEnd:</dt>
+    <dd align="center">HTML, CSS, JavaScript</dd>
+    <dt align="center">FrontEnd frameworks:</dt>
+    <dd align="center">React & Next.js</dd>
+    <dt align="center">Learning:</dt>
+    <dd align="center">PHP, Python</dd>
+</dl>
+
 <!-- <dl>
     <dt align="center">Basic languages:</dt>
     <dd align="center">Python, C, C++, C#</dd>
