@@ -2,7 +2,8 @@
 <div>
 <img width="377" src="assets/luffy.png" align=right />
 <br/>
-<img src="/assets/Untitled.png" width="430" />
+<img src="/assets/Untitled.png" width="44
+0" />
 <br/>
 <br/>
 <br/>
@@ -58,6 +59,8 @@
 
 
 
+<br/>
+<br/>
 <br/>
 
  <p><h1 align="left"> <strong>C O N T A C T</strong></h1>
