@@ -20,11 +20,13 @@
 - Understand Bahasa Indonesia, Bahasa Melayu, and English
 
 <br/>
+<br/>
+<br/>
 
 
 
 
-<div align="center">
+<div align="left">
     <p><h1> <strong>T O O L S</strong></h1>
 </div>
 
@@ -54,9 +56,7 @@
     
 </div>
 
-<div align="left">
-    <p><h1> <strong>T O O L S</strong></h1>
-</div>
+
 
 <br/>
 
