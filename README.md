@@ -65,8 +65,6 @@
     <img src="https://github.com/Esyeha/Esyeha/blob/main/assets/s.gif">
 </div>
 <div align="center">
-   <a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
-    <!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1177530814624452628?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1177530814624452628) -->
 </div>
 
 
