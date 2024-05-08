@@ -64,7 +64,7 @@
 <!-- <div align="center">
     <img src="https://github.com/Esyeha/Esyeha/blob/main/assets/s.gif">
 </div> -->
-<img align="left" src="assets/lufy chibi.png" width="100">
+<img align="right" src="assets/lufy chibi.png" width="100">
 
 **Please Contact me on Discord for a quick response:** [syeha27](https://discord.com/users/1177530814624452628)
 
