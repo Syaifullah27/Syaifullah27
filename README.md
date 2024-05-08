@@ -60,10 +60,15 @@
 
 <br/>
 
- <p><h1 align="right"> <strong>T O O L S</strong></h1>
-<div align="right">
+ <p><h1 align="right"> <strong>C O N T A C T</strong></h1>
+<div align="center">
     <img src="https://github.com/Esyeha/Esyeha/blob/main/assets/s.gif">
 </div>
+<div align="center">
+    [![Discord Presence](https://lanyard.cnrad.dev/api/:1177530814624452628)](https://discord.com/users/:1177530814624452628)
+    <!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1177530814624452628?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1177530814624452628) -->
+</div>
+
 
 <dl>
     <dt align="center">Discord:</dt>
