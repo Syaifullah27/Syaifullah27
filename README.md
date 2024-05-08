@@ -67,10 +67,6 @@
 <div align="center">
 </div>
 
+**Please Contact me on Discord for a quick response:** [pumkin nig...](https://discord.com/users/1177530814624452628)
 
-<dl>
-    <dt align="center">Discord:</dt>
-    <dd align="center">syeha27</dd>
-    <dt align="center">Telegram:</dt>
-    <dd align="center">@Syaifullah27</dd>
-</dl>
+**You can also email me here:** syh48149@gmail.com
