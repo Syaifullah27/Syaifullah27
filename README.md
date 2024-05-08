@@ -61,12 +61,11 @@
 <br/>
 
  <p><h1 align="right"> <strong>C O N T A C T</strong></h1>
-<div align="center">
+<!-- <div align="center">
     <img src="https://github.com/Esyeha/Esyeha/blob/main/assets/s.gif">
-</div>
-<div align="center">
-</div>
+</div> -->
+<div align="right">
+    **Please Contact me on Discord for a quick response:** [syeha27](https://discord.com/users/1177530814624452628)
 
-**Please Contact me on Discord for a quick response:** [pumkin nig...](https://discord.com/users/1177530814624452628)
-
-**You can also email me here:** syh48149@gmail.com
+    **You can also email me here:** syh48149@gmail.com
+</div>
