@@ -26,7 +26,7 @@
 
 
 
-<div align="left">
+<div align="right">
     <p><h1> <strong>T O O L S</strong></h1>
 </div>
 
@@ -60,12 +60,11 @@
 
 <br/>
 
- <p><h1 align="right"> <strong>C O N T A C T</strong></h1>
+ <p><h1 align="left"> <strong>C O N T A C T</strong></h1>
 <!-- <div align="center">
     <img src="https://github.com/Esyeha/Esyeha/blob/main/assets/s.gif">
 </div> -->
-<div align="right">
-    **Please Contact me on Discord for a quick response:** [syeha27](https://discord.com/users/1177530814624452628)
 
-    **You can also email me here:** syh48149@gmail.com
-</div>
+**Please Contact me on Discord for a quick response:** [syeha27](https://discord.com/users/1177530814624452628)
+
+**You can also email me here:** syh48149@gmail.com
