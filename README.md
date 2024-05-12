@@ -18,7 +18,7 @@
 
 - Have experience with **Figma**
   
-- Understand Bahasa Indonesia, Bahasa Melayu, and English
+- Understand Bahasa Melayu, and English
 
 <br/>
 <br/>
