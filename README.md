@@ -18,7 +18,6 @@
 
 - Have experience with **Figma**
   
-- Understand Bahasa Melayu, and English
 
 <br/>
 <br/>
